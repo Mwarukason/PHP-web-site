@@ -10,6 +10,7 @@ body{
 	color: white !important;
 	font-size: 25px;
 	font-weight: 600;
+	font-family: 'Tangerine', serif;
 }
 
 .sub_msg{
@@ -34,10 +35,10 @@ body{
 	font-size: 20px;
 }
 
-.input[type="submit"]{
+input[type="submit"]{
 	height: 40px;
 	font-size: 20px;
 	font-weight: bold;
-	background-color: #004080;
+	background-color: #003366;
 	color: white !important;
 }

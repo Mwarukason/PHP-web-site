@@ -44,7 +44,7 @@
 				</div>
 			</div>
 
-			<div class="row form-group" style="margin: 0px 10px 20px 10px">
+			<div class="row form-group" style="margin: 0px 10px 20px 10px;">
 				<div class="col-xs-12">
 					<input type="submit" name="submit" id="submit" class="form-control">
 				</div>
