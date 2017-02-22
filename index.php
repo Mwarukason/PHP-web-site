@@ -50,7 +50,7 @@
 		</div>
 
 		<div id="signup" class="tab-pane fade in">
-			<p>Sign Up</p>
+			<?php include("./user/signup.php"); ?>
 		</div>
 
 		<div id="admin" class="tab-pane fade in">
