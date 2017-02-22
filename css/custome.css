@@ -42,3 +42,7 @@ input[type="submit"]{
 	background-color: #003366;
 	color: white !important;
 }
+
+#errorFirstname, #errorLastname, #errorEmail, #errorPassword{
+	color: red;
+}

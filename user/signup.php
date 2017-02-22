@@ -1,4 +1,3 @@
-
 <div class="container">
 	<div class="row" style="text-align: center;">
 		<h3>PHP SYSTEM USER SIGN UP PAGE</h3>
@@ -20,6 +19,7 @@
 				<label for="" class="col-sm-2">Email</label>
 				<div class="col-sm-10">
 					<input type="text" name="email" id="email" class="form-control">
+					<span id="errorEmail"></span> <!-- create element for validation-->
 				</div>
 			</div>
 
@@ -27,6 +27,7 @@
 				<label for="" class="col-sm-2">Firstname</label>
 				<div class="col-sm-10">
 					<input type="text" name="Firstname" id="Firstname" class="form-control">
+					<span id="errorFirstname"></span> <!-- create element for validation-->
 				</div>
 			</div>
 
@@ -34,6 +35,7 @@
 				<label for="" class="col-sm-2">Lastname</label>
 				<div class="col-sm-10">
 					<input type="text" name="Lastname" id="Lastname" class="form-control">
+					<span id="errorLastname"></span> <!-- create element for validation-->
 				</div>
 			</div>
 
@@ -41,6 +43,7 @@
 				<label for="" class="col-sm-2">Password</label>
 				<div class="col-sm-10">
 					<input type="password" name="password" id="password" class="form-control">
+					<span id="errorPassword"></span> <!-- create element for validation-->
 				</div>
 			</div>
 

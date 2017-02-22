@@ -1,7 +1,9 @@
+<?php include("./config/db.php") ?>
+
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-<meta charset="utf-8">
+	<meta charset="utf-8">
 	<title>PHP APPLICATION - INDEX PAGE</title>
 
 	<!-- Latest compiled and minified CSS -->
@@ -14,6 +16,8 @@
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 
 	<link rel="stylesheet" type="text/css" href="./css/custome.css">
+
+	<script src="./js/reg.js"></script>
 
 </head>
 
